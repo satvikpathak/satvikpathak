@@ -50,7 +50,7 @@ I'm a **Computer Science & Engineering** student with a passion for coding, prob
 ## 📫 How to reach me:
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/satvik-pathak-601833331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
   <a href="mailto:satvikpathak007@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
 </p>
 
