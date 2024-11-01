@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/satvikpathak/satvikpathak/refs/heads/main/header.png" />
+</div>
+
 <h3 align="left">Hi 👋! My name is Satvik Pathak and I am a student pursuing computer science engineering</h3>
 <hr>
 
