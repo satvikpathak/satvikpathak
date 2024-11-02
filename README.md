@@ -71,7 +71,7 @@
 
 
 
-<p align="left">🌟 I'm a passionate Computer Science and Engineering student 🚀 with a keen interest in web development 🌐 and data structures 📊. I love diving into JavaScript 💻, exploring the depths of Node.js 🕸️, and mastering the MERN stack 🌱. When I’m not coding, you’ll find me solving challenges on LeetCode 🔍 or working on my latest projects 🎨. Let’s connect and collaborate! Feel free to check out my work below ⬇️.</p>
+<h3 align="left">🌟 If you've made it this far, thank you for checking out my profile! 💪 Let’s connect, collaborate, and create something amazing together. I’m always open to learning and sharing knowledge—feel free to explore my work below! ⬇️.</h3>
 
 
 <div align="center">
