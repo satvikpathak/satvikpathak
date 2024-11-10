@@ -9,7 +9,7 @@
 <h3 align="left">Hi 👋! My name is Satvik Pathak and I am a student pursuing computer science engineering</h3>
 <hr>
 
-<pre>
+<pre style="word-wrap: break-word; white-space: pre-wrap;">
 👨‍💻 Coding Journey: On a continuous path of growth, tackling new challenges every day and refining my skills ✨
 🚀 Current Focus: Building impactful projects like a hackathon club website 🏆
 🌱 Growth Mindset: Striving to master coding in 6 months ⏳ and diving into exciting areas like AI 🤖 and backend development 🌐
