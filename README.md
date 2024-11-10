@@ -9,14 +9,15 @@
 <h3 align="left">Hi 👋! My name is Satvik Pathak and I am a student pursuing computer science engineering</h3>
 <hr>
 
-<pre style="word-wrap: break-word; white-space: pre-wrap;">
+<pre>
 👨‍💻 Coding Journey: On a continuous path of growth, tackling new challenges every day and refining my skills ✨
 🚀 Current Focus: Building impactful projects like a hackathon club website 🏆
-🌱 Growth Mindset: Striving to master coding in 6 months ⏳ and diving into exciting areas like AI 🤖 and backend development 🌐
+🌱 Growth Mindset: Striving to master coding in 6 months ⏳ and diving into exciting areas like AI 🤖 and 
+  backend development 🌐
 🧠 Problem Solver: Tackling daily DSA problems on LeetCode and Coding Ninja 📝 to sharpen my problem-solving skills
 🎯 Goals: Delivering innovative solutions 💡 and collaborating on exciting projects that make a difference 💥
 🤝 Collaboration: Always open to teamwork and learning from others 🤗 while contributing to meaningful projects
-🎉 Outside the Code: Passionate about pushing the boundaries of what’s possible in tech 🌍 and solving real-world problems 🔧
+🎉 Outside the Code: Passionate about pushing the boundaries of what’s possible in tech 🌍
 📩 Let’s Connect: Open to networking 🤝 and discussing new ideas or just chatting about tech!
   
     Reach out to me at <a href="mailto:satvikpathak007@gmail.com">satvikpathak007@gmail.com</a> 📬
