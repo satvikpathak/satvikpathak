@@ -28,9 +28,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satvikpathak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&v=69" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satvikpathak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&v80" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=satvikpathak&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&v=78" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=satvikpathak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&v=89" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satvikpathak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&v89" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=satvikpathak&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&v=89" height="150" alt="streak graph"  />
 </div>
 <hr>
 
@@ -52,6 +52,8 @@
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript logo" />
+
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
@@ -69,7 +71,13 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
 </div>
 
+<h3 align="left">👨‍💻 IDE</h3>
+<br clear="both">
 
+<div align="left">
+  <img src="https://code.visualstudio.com/favicon.ico" height="30" alt="Visual Studio logo" style="margin-right: 10px;"/>
+  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" height="30" alt="PyCharm logo" />
+</div>
 
 <h3 align="left">🌟 REACH ME AT:</h3>
 
