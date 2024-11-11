@@ -62,6 +62,14 @@
 
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
 
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="30" alt="markdown logo" />
+
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="30" alt="vite logo" />
+  
+  <img src="https://img.shields.io/badge/Framer%20Motion-0085FF?style=for-the-badge&logo=framer&logoColor=white" height="30" alt="framer motion logo" />
+
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="vercel logo" />
+
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
 
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
@@ -69,6 +77,11 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="30" alt="wordpress logo"  />
 
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" height="30" alt="bun logo" />
+
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="30" alt="npm logo" />
+  
 </div>
 
 <h3 align="left">👨‍💻 IDE</h3>
