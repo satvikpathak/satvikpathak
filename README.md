@@ -81,7 +81,9 @@
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" height="30" alt="bun logo" />
 
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="30" alt="npm logo" />
-  
+
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30" alt="Next.js logo" />
+
 </div>
 
 <h3 align="left">👨‍💻 IDE</h3>
