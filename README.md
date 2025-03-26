@@ -11,7 +11,7 @@
 
 <ul>
   <li>👨‍💻 Coding Journey: On a continuous path of growth, tackling new challenges every day and refining my skills ✨</li>
-  <li>🚀 Current Focus: Building impactful projects like a hackathon club website 🏆</li>
+  <li>🚀 Current Focus: Building impactful projects</li>
   <li>🌱 Growth Mindset: Striving to master coding in 6 months ⏳ and diving into exciting areas like AI 🤖 and backend development 🌐</li>
   <li>🧠 Problem Solver: Tackling daily DSA problems on LeetCode and Coding Ninja 📝 to sharpen my problem-solving skills</li>
   <li>🎯 Goals: Delivering innovative solutions 💡 and collaborating on exciting projects that make a difference 💥</li>
@@ -28,9 +28,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satvikpathak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&v=17" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satvikpathak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&v26" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=satvikpathak&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&v=91" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=satvikpathak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&v=85" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satvikpathak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&v89" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=satvikpathak&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&v=2" height="150" alt="streak graph"  />
 </div>
 <hr>
 
