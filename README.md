@@ -21,7 +21,7 @@
 [*] Coding Journey: On a continuous path of growth, tackling new challenges every day and refining my skills ✨
 [*] Current Focus: Building impactful projects
 [*] Growth Mindset: Striving to master coding in 6 months ⏳ and diving into exciting areas like AI 🤖 and backend development 🌐
-[*] Problem Solver: Tackling daily DSA problems on LeetCode and Coding Ninja 📝 to sharpen my problem-solving skills
+[*] Problem Solver: Tackling daily DSA problems on LeetCode and Coding Ninja 📝 to sharpen my problem-solving skill
 [*] Goals: Delivering innovative solutions 💡 and collaborating on exciting projects that make a difference 💥
 [*] Collaboration: Always open to teamwork and learning from others 🤗 while contributing to meaningful projects
 [*] Outside the Code: Passionate about pushing the boundaries of what's possible in tech 🌍
