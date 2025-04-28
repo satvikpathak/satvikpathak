@@ -9,7 +9,7 @@
      
 ### ┌──(satvik㉿pathak)-[~/about]
 ### └─$ ./whoami
-
+ 
 > Hi 👋! My name is Satvik Pathak and I am a student pursuing computer science engineering
 
 ---
