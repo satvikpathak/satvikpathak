@@ -79,7 +79,6 @@ drwxr-xr-x  root root tech_stack/
 │
 └── Others
     ├── Linux
-    └── WordPress
 ```
 
 ---
